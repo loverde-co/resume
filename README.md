@@ -5,7 +5,7 @@
 **WhatsApp Chat:** +55 (19) 99511.2758  
 **Resume/Vcard:** [https://vcard.loverde.com.br/](https://vcard.loverde.com.br/)  
 **Email:** [daniel@loverde.com.br](mailto:daniel@loverde.com.br)  
-**GitHub:** jackloverde  
+**GitHub:** loverde-co  
 **BitBucket:** loverde_co  
 **Telegram:** @loverde  
 **LinkedIn:** [https://www.linkedin.com/in/danieloverde/](https://www.linkedin.com/in/danieloverde/)
