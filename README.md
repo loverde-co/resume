@@ -98,7 +98,7 @@ Experience with SCRUM.
 
 ### Data Analysis
 
-* App Ani
+* App Annie
 * Fabrics
 * Firebase
 
