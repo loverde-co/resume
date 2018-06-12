@@ -1,7 +1,7 @@
 # Daniel Arantes Loverde
 
 
-**Location:** Campinas - SP - Brazil  
+**Location:** Campinas / Aguaí - SP - Brazil  
 **WhatsApp Chat:** +55 (19) 99511.2758  
 **Resume/Vcard:** [https://vcard.loverde.com.br/](https://vcard.loverde.com.br/)  
 **Email:** [daniel@loverde.com.br](mailto:daniel@loverde.com.br)  
@@ -12,8 +12,8 @@
 
 ## About Me
   
-7+ years of experience working with iOS development.  
-17+ years of experience working with PHP development.  
+8+ years of experience working with iOS development.  
+18+ years of experience working with PHP development.  
 Working as effective iOS developer since 2010.  
 
 **Specialties:**  
@@ -61,6 +61,8 @@ Experience with SCRUM.
 ### Back-End  
 
 * PHP
+* Firebase
+* Parse
 
 
 #### Deploy  
@@ -165,6 +167,9 @@ Experience with SCRUM.
 
 
 ## Education  
+**Bachelor of Computer Engenieering**, February 2018 *~ Present*  
+First class of the Aguaí Polo  
+[UNIVESP - Universidade Virtual do Estado de São Paulo](https://univesp.br)
 
 **Bachelor of Information Systems**, February 2008 - December 2012.  
 [IPEP - Faculdades Integradas IPEP](http://www.ipep.com.br/site/)  
