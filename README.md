@@ -167,7 +167,7 @@ Experience with SCRUM.
 
 
 ## Education  
-**Bachelor of Computer Engenieering**, February 2018 *~ Present*  
+**Bachelor of Computer Engenieering**, February 2018 ~ *Present*  
 First class of the Aguaí Polo  
 [UNIVESP - Universidade Virtual do Estado de São Paulo](https://univesp.br)
 
