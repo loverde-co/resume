@@ -12,8 +12,8 @@
 
 ## About Me
   
-8+ years of experience working with iOS development.  
-18+ years of experience working with PHP development.  
+9+ years of experience working with iOS development.  
+19+ years of experience working with PHP development.  
 Working as effective iOS developer since 2010.  
 
 **Specialties:**  
