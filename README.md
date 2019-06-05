@@ -113,7 +113,7 @@ Experience with SCRUM.
 
 ## Work Experience  
 
-**Project Manager** - *[Jan/2014 ~ Present]*  
+**Project Manager** - *[Jan/2014 ~ Jan/2019]*  
 @ [RD3 Mkt Digital](http://www.rd3digital.com.br)  
 > Apps and Game developer in iOS ( Swift / Objective-C ) and Android  
 **Location:** Campinas - SP - Brazil ( Homeoffice )  
