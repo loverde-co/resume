@@ -12,8 +12,8 @@
 
 ## About Me
   
-8+ years of experience working with iOS development.  
-18+ years of experience working with PHP development.  
+10+ years of experience working with iOS development.  
+20+ years of experience working with PHP development.  
 Working as effective iOS developer since 2010.  
 
 **Specialties:**  
@@ -55,6 +55,7 @@ Experience with SCRUM.
 * Unity 3D
 * Sketch
 * [Cocoapods](http://cocoapods.org)
+* CI ( Continous Integration )
 
 
 
@@ -113,16 +114,16 @@ Experience with SCRUM.
 
 ## Work Experience  
 
-**Project Manager** - *[Jan/2014 ~ Present]*  
-@ [RD3 Mkt Digital](http://www.rd3digital.com.br)  
-> Apps and Game developer in iOS ( Swift / Objective-C ) and Android  
-**Location:** Campinas - SP - Brazil ( Homeoffice )  
-  
-
 **Founder** - *[2004 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
 > A Legal Person company created for Freelancers or contracts for a specified some time  
 **Location:** Aguaí - SP - Brazil  
+
+
+**Project Manager** - *[Jan/2014 ~ Jan/2019]*  
+@ [RD3 Mkt Digital](http://www.rd3digital.com.br)  
+> Apps and Game developer in iOS ( Swift / Objective-C ) and Android  
+**Location:** Campinas - SP - Brazil ( Homeoffice )
 
 
 **Project Manager** - *[Jan/2012 ~ Jan/2014]*  
