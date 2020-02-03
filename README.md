@@ -114,6 +114,7 @@ Experience with SCRUM.
 
 ## Work Experience  
 
+
 **Founder** - *[2004 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
 > A Legal Person company created for Freelancers or contracts for a specified some time  
@@ -168,7 +169,7 @@ Experience with SCRUM.
 
 
 ## Education  
-**Bachelor of Computer Engenieering**, February 2018 *~ Present*  
+**Bachelor of Computer Engenieering**, February 2018 ~ *Present*  
 First class of the Aguaí Polo  
 [UNIVESP - Universidade Virtual do Estado de São Paulo](https://univesp.br)
 
