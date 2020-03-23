@@ -3,7 +3,6 @@
 
 **Location:** Campinas / Aguaí - SP - Brazil  
 **WhatsApp Chat:** +55 (19) 99511.2758  
-**Resume/Vcard:** [https://vcard.loverde.com.br/](https://vcard.loverde.com.br/)  
 **Email:** [daniel@loverde.com.br](mailto:daniel@loverde.com.br)  
 **GitHub:** loverde-co  
 **BitBucket:** loverde_co  
@@ -29,7 +28,7 @@ Knowledge in common software development patterns: MVVM, MVC.
 Knowledge in CocoaPods
 
 **Knowledge in these frameworks:**  
-UIKIT, Foundation, CoreGraphics, CoreData, Quartz, SystemConfiguration, MobileCoreServices, Security, CoreLocation, MapKit, EventKit, CrashReporter, CFNetwork, AFNetworking, CoreVideo, Crashlytics.
+UIKIT, Foundation, CoreGraphics, CoreData, ARKit, Quartz, SystemConfiguration, MobileCoreServices, Security, CoreLocation, MapKit, EventKit, CrashReporter, CFNetwork, AFNetworking, CoreVideo, Crashlytics.
 
 **Automated Tests:**  
 Unit Tests: XCTests
