@@ -114,6 +114,12 @@ Experience with SCRUM.
 ## Work Experience  
 
 
+**iOS Senior Developer** - *[Abr/2020 ~ Present]*  
+@ [Go-K](http://www.gok.digital)  
+> iOS Senior Developer ( Swift / Objective-C )  
+**Location:** São Paulo - SP - Brazil ( Homeoffice )
+
+
 **Founder** - *[2004 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
 > A Legal Person company created for Freelancers or contracts for a specified some time  
