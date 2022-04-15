@@ -11,8 +11,8 @@
 
 ## About Me
   
-10+ years of experience working with iOS development.  
-20+ years of experience working with PHP development.  
+11+ years of experience working with iOS development.  
+21+ years of experience working with PHP development.  
 Working as effective iOS developer since 2010.  
 
 **Specialties:**  
@@ -114,16 +114,21 @@ Experience with SCRUM.
 ## Work Experience  
 
 
-**iOS Senior Developer** - *[Abr/2020 ~ Present]*  
-@ [Go-K](http://www.gok.digital)  
-> iOS Senior Developer ( Swift / Objective-C )  
-**Location:** São Paulo - SP - Brazil ( Homeoffice )
-
-
 **Founder** - *[2004 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
 > A Legal Person company created for Freelancers or contracts for a specified some time  
 **Location:** Aguaí - SP - Brazil  
+
+
+**iOS Senior Developer** - *[Set/2021] ~ Present]*  
+@ [South System](http://southsystem.com.br)
+> iOS Senior Developer ( Swift )  
+**Location:** Porto Alegre - RS - Brazil ( Homeoffice )
+
+**iOS Senior Developer** - *[Abr/2020 ~ Present]*  
+@ [Go-K](http://www.gok.digital)  
+> iOS Senior Developer ( Swift / Objective-C )  
+**Location:** São Paulo - SP - Brazil ( Homeoffice )
 
 
 **Project Manager** - *[Jan/2014 ~ Jan/2019]*  
