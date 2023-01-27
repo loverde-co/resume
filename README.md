@@ -11,8 +11,8 @@
 
 ## About Me
   
-11+ years of experience working with iOS development.  
-21+ years of experience working with PHP development.  
+12+ years of experience working with iOS development.  
+22+ years of experience working with PHP development.  
 Working as effective iOS developer since 2010.  
 
 **Specialties:**  
@@ -179,7 +179,7 @@ Experience with SCRUM.
 
 
 ## Education  
-**Bachelor of Computer Engenieering**, February 2018 ~ *Present*  
+**Bachelor of Computer Engenieering**, February 2018 ~ December 2022.  
 First class of the Aguaí Polo  
 [UNIVESP - Universidade Virtual do Estado de São Paulo](https://univesp.br)
 
