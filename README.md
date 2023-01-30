@@ -120,12 +120,12 @@ Experience with SCRUM.
 **Location:** Aguaí - SP - Brazil  
 
 
-**iOS Senior Developer** - *[Set/2021] ~ Present]*  
+**iOS Senior Developer** - *[Set/2021 ~ Present]*  
 @ [South System](http://southsystem.com.br)
 > iOS Senior Developer ( Swift )  
 **Location:** Porto Alegre - RS - Brazil ( Homeoffice )
 
-**iOS Senior Developer** - *[Abr/2020 ~ Present]*  
+**iOS Senior Developer** - *[Abr/2020 ~ Jan/2023]*  
 @ [Go-K](http://www.gok.digital)  
 > iOS Senior Developer ( Swift / Objective-C )  
 **Location:** São Paulo - SP - Brazil ( Homeoffice )
