@@ -123,11 +123,15 @@ Experience with SCRUM.
 <!--**iOS Senior Developer** - *[Set/2021 ~ Present]*  
 @ [South System](http://southsystem.com.br)
 > iOS Senior Developer ( Swift )  
+> Squad tech-lead  
+> Responsible for code review and app publishing   
 **Location:** Porto Alegre - RS - Brazil ( Homeoffice )-->
 
 **iOS Senior Developer** - *[Abr/2020 ~ Jan/2023]*  
 @ [Go-K](http://www.gok.digital)  
 > iOS Senior Developer ( Swift / Objective-C )  
+> Squad tech-lead  
+> Responsible for code review and app publishing   
 **Location:** São Paulo - SP - Brazil ( Homeoffice )
 
 
