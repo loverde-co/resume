@@ -116,7 +116,8 @@ Experience with SCRUM.
 
 **Founder** - *[2004 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
-> A Legal Person company created for Freelancers or contracts for a specified some time  
+> A Legal Person company created for Freelancers or contracts for a specified some time.  
+> Since 2019 working for companies as a legal entity (Home Office) more effectively as iOS Tech Lead and Code Reviewer  
 **Location:** Aguaí - SP - Brazil  
 
 
@@ -127,12 +128,12 @@ Experience with SCRUM.
 > Responsible for code review and app publishing   
 **Location:** Porto Alegre - RS - Brazil ( Homeoffice )-->
 
-**iOS Senior Developer** - *[Abr/2020 ~ Jan/2023]*  
+<!--**iOS Senior Developer** - *[Abr/2020 ~ Jan/2023]*  
 @ [Go-K](http://www.gok.digital)  
 > iOS Senior Developer ( Swift / Objective-C )  
 > Squad tech-lead  
 > Responsible for code review and app publishing   
-**Location:** São Paulo - SP - Brazil ( Homeoffice )
+**Location:** São Paulo - SP - Brazil ( Homeoffice )-->
 
 
 **Project Manager** - *[Jan/2014 ~ Jan/2019]*  
