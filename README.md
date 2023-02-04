@@ -117,8 +117,8 @@ Experience with SCRUM.
 **Founder** - *[2004 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
 > A Legal Person company created for Freelancers or contracts for a specified some time.  
-> Since 2019 working for companies as a legal entity (Home Office) more effectively as iOS Tech Lead and Code Reviewer  
-**Location:** Aguaí - SP - Brazil  
+> Since 2019 working for companies as a legal entity more effectively as iOS Tech Lead and Code Reviewer.  
+**Location:** Aguaí - SP - Brazil ( Homeoffice ) 
 
 
 <!--**iOS Senior Developer** - *[Set/2021 ~ Present]*  
