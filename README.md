@@ -4,16 +4,15 @@
 **Location:** Campinas / Aguaí - SP - Brazil  
 **WhatsApp Chat:** +55 (19) 99511.2758  
 **Email:** [daniel@loverde.com.br](mailto:daniel@loverde.com.br)  
-**GitHub:** loverde-co  
+**GitHub:** @loverde-co  
 **BitBucket:** loverde_co  
 **Telegram:** @loverde  
 **LinkedIn:** [https://www.linkedin.com/in/danieloverde/](https://www.linkedin.com/in/danieloverde/)
 
 ## About Me
   
-12+ years of experience working with iOS development.  
-22+ years of experience working with PHP development.  
-Working as effective iOS developer since 2010.  
+**Working with iOS development since 2009.**  
+Working with back-end development since 1998.   
 
 **Specialties:**  
 Technical lead and iOS development  
@@ -23,7 +22,7 @@ Swift and Objective - C
 
 I've solid knowledge in webservices integrations (RESTful) and also to build them.  
 
-Knowledge in common software development patterns: MVVM, MVC.
+Knowledge in common software development patterns: MVVM, MVC, SOLID.
 
 Knowledge in CocoaPods
 
@@ -55,6 +54,7 @@ Experience with SCRUM.
 * Sketch
 * [Cocoapods](http://cocoapods.org)
 * CI ( Continous Integration )
+* [sonarqube](https://www.sonarsource.com/products/sonarqube/)
 
 
 
