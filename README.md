@@ -7,7 +7,7 @@
 **GitHub:** @loverde-co  
 **BitBucket:** loverde_co  
 **Telegram:** @loverde  
-**LinkedIn:** [https://www.linkedin.com/in/danieloverde/](https://www.linkedin.com/in/danieloverde/)
+**LinkedIn:** [https://linkedin.com/in/danieloverde/](https://www.linkedin.com/in/danieloverde/)
 
 ## About Me
   
@@ -61,8 +61,10 @@ Experience with SCRUM.
 ### Back-End  
 
 * PHP
+* Apache
 * Firebase
 * Parse
+* DevOps
 
 
 #### Deploy  
@@ -117,7 +119,10 @@ Experience with SCRUM.
 **Founder** - *[2004 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
 > A Legal Person company created for Freelancers or contracts for a specified some time.  
-> Since 2019 working for companies as a legal entity more effectively as iOS Tech Lead and Code Reviewer.  
+> Since 2019 working for companies as a legal entity more effectively as iOS Senior/Tech Lead.  
+> During these years at the company, I helped companies evolve their apps,
+for example: Shell Box, Iguatemi One, Pernambucanas, Carrefour and many
+others. I am ready to offer comprehensive support and innovative strategies to drive your company's success. 
 **Location:** Aguaí - SP - Brazil ( Homeoffice ) 
 
 
@@ -198,7 +203,7 @@ First class of the Aguaí Polo
 
 ## Courses  
 
-* ionic 2, By [Udemy](http://udemy.com)
-* Android and Kotlin, By [Udemy](http://udemy.com)
-* Unity 3D, By [Udemy](http://udemy.com)
-* iOS Developer, by [iAi](http://iai.lucaslongo.com/sobre-o-iai/);  
+* ionic 2, by [Udemy](http://udemy.com)
+* Android and Kotlin, by [Udemy](http://udemy.com)
+* Unity 3D, by [Udemy](http://udemy.com)
+* iOS Developer, by [iAi](http://iai.lucaslongo.com/sobre-o-iai/) and [Udemy](http://udemy.com);  
