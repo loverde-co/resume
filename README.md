@@ -116,7 +116,7 @@ Experience with SCRUM.
 ## Work Experience  
 
 
-**Founder** - *[2004 ~ Present]*  
+**Founder** - *[2019 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
 > A Legal Person company created for Freelancers or contracts for a specified some time.  
 > Since 2019 working for companies as a legal entity more effectively as iOS Senior/Tech Lead.  
