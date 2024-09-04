@@ -11,7 +11,7 @@
 
 ## About Me
   
-**Working with iOS development since 2009.**  
+**Working with iOS development since 2010.**  
 Working with back-end development since 1998.   
 
 **Specialties:**  
@@ -121,17 +121,20 @@ Experience with SCRUM.
 > A Legal Person company created for Freelancers or contracts for a specified some time.  
 > Since 2019 working for companies as a legal entity more effectively as iOS Senior/Tech Lead.  
 > During these years at the company, I helped companies evolve their apps,
-for example: Shell Box, Iguatemi One, Pernambucanas, Carrefour and many
-others. I am ready to offer comprehensive support and innovative strategies to drive your company's success. 
+for example:   
+> > Shell Box, Iguatemi One, Pernambucanas, Carrefour, Natura, Banco Mercantil and many
+others.  
+
+>  I am ready to offer comprehensive support and innovative strategies to drive your company's success.   
 **Location:** Aguaí - SP - Brazil ( Homeoffice ) 
 
 
-**iOS Senior Developer** - *[Set/2021 ~ Present]*  
+<!--**iOS Senior Developer** - *[Set/2021 ~ Present]*  
 @ [South System](http://southsystem.com.br)
 > iOS Senior Developer ( Swift )  
 > Squad tech-lead  
-> Responsible for code review and app publishing   
-**Location:** Porto Alegre - RS - Brazil ( Homeoffice )
+> Responsible for lead team, code review and app publishing   
+**Location:** Porto Alegre - RS - Brazil ( Homeoffice )-->
 
 <!--**iOS Senior Developer** - *[Abr/2020 ~ Jan/2023]*  
 @ [Go-K](http://www.gok.digital)  
