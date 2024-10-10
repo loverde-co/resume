@@ -21,10 +21,9 @@ Technical lead and iOS development
 Swift and Objective - C  
 
 I've solid knowledge in webservices integrations (RESTful) and also to build them.  
-
-Knowledge in common software development patterns: MVVM, MVC, SOLID.
-
-Knowledge in CocoaPods
+Knowledge in common software development patterns: MVVM, MVC, Clean Code, SOLID. VIPER.  
+Knowledge in SwifLint and Fastlane  
+Knowledge in CocoaPods and SPM
 
 **Knowledge in these frameworks:**  
 UIKIT, Foundation, CoreGraphics, CoreData, ARKit, Quartz, SystemConfiguration, MobileCoreServices, Security, CoreLocation, MapKit, EventKit, CrashReporter, CFNetwork, AFNetworking, CoreVideo, Crashlytics.
@@ -34,7 +33,7 @@ Unit Tests: XCTests
 UI / Funcional Tests: Xcode UITest
 
 Experience with HTML, CSS and JS development since 1998  
-Experience with PHP and MySQL development since 2000  
+Experience with PHP, MySQL and NoSQL development since 2000  
 Experience with iOS development since 2010  
 Experience with SCRUM.  
 
@@ -78,6 +77,7 @@ Experience with SCRUM.
 ### Databases - Relational and NoSQL  
 
 * MySQL  
+* Node.JS
 * SQLite   
 * Firebase  
 
@@ -118,7 +118,7 @@ Experience with SCRUM.
 
 **Founder** - *[2019 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
-> A Legal Person company created for Freelancers or contracts for a specified some time.  
+> A Legal Person ( PJ ) company created for Freelancers or contracts for a specified some time.  
 > Since 2019 working for companies as a legal entity more effectively as iOS Senior/Tech Lead.  
 > During these years at the company, I helped companies evolve their apps,
 for example:   
