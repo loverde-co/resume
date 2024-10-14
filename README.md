@@ -18,12 +18,13 @@ Working with back-end development since 1998.
 Technical lead and iOS development  
 
 **Languages:**  
-Swift and Objective - C  
+Swift, SwiftUI and Objective - C  
 
 I've solid knowledge in webservices integrations (RESTful) and also to build them.  
-Knowledge in common software development patterns: MVVM, MVC, Clean Code, SOLID. VIPER.  
+Knowledge in common software development patterns: MVVM, MVC, VIPER, Clean Code, SOLID.  
 Knowledge in SwifLint and Fastlane  
 Knowledge in CocoaPods and SPM
+Knowledge in CI/CD and DevOps
 
 **Knowledge in these frameworks:**  
 UIKIT, Foundation, CoreGraphics, CoreData, ARKit, Quartz, SystemConfiguration, MobileCoreServices, Security, CoreLocation, MapKit, EventKit, CrashReporter, CFNetwork, AFNetworking, CoreVideo, Crashlytics.
@@ -42,7 +43,7 @@ Experience with SCRUM.
 
 ### Mobile Development  
 
-* Swift / Objective-C    
+* Swift / SwiftUI / Objective-C    
 * C#  
 
 #### Tools, Frameworks, Stacks and Front End Methodologies  
@@ -52,7 +53,7 @@ Experience with SCRUM.
 * Unity 3D
 * Sketch
 * [Cocoapods](http://cocoapods.org)
-* CI ( Continous Integration )
+* CI/CD and DevOps
 * [sonarqube](https://www.sonarsource.com/products/sonarqube/)
 
 
@@ -63,7 +64,6 @@ Experience with SCRUM.
 * Apache
 * Firebase
 * Parse
-* DevOps
 
 
 #### Deploy  
@@ -104,13 +104,13 @@ Experience with SCRUM.
 
 * App Annie
 * Fabrics
-* Firebase
+* Firebase  
 
 ### Operation Systems  
-
-* Unix commands  
-* Linux    
+   
 * Mac OS X
+* Unix commands  
+* Linux 
 
 
 ## Work Experience  
@@ -118,7 +118,7 @@ Experience with SCRUM.
 
 **Founder** - *[2019 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
-> A Legal Person ( PJ ) company created for Freelancers or contracts for a specified some time.  
+> A Legal Person company ( PJ ) created for Freelancers or contracts for a specified some time.  
 > Since 2019 working for companies as a legal entity more effectively as iOS Senior/Tech Lead.  
 > During these years at the company, I helped companies evolve their apps,
 for example:   
@@ -129,19 +129,19 @@ others.
 **Location:** Aguaí - SP - Brazil ( Homeoffice ) 
 
 
-<!--**iOS Senior Developer** - *[Set/2021 ~ Present]*  
+**iOS Senior Developer** - *[Set/2021 ~ Oct/2024]*  
 @ [South System](http://southsystem.com.br)
 > iOS Senior Developer ( Swift )  
 > Squad tech-lead  
 > Responsible for lead team, code review and app publishing   
-**Location:** Porto Alegre - RS - Brazil ( Homeoffice )-->
+**Location:** Porto Alegre - RS - Brazil ( Homeoffice )
 
-<!--**iOS Senior Developer** - *[Abr/2020 ~ Jan/2023]*  
+**iOS Senior Developer** - *[Abr/2020 ~ Jan/2021]*  
 @ [Go-K](http://www.gok.digital)  
 > iOS Senior Developer ( Swift / Objective-C )  
 > Squad tech-lead  
 > Responsible for code review and app publishing   
-**Location:** São Paulo - SP - Brazil ( Homeoffice )-->
+**Location:** São Paulo - SP - Brazil ( Homeoffice )
 
 
 **Project Manager** - *[Jan/2014 ~ Jan/2019]*  
