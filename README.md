@@ -21,7 +21,7 @@ Technical lead and iOS development
 Swift and Objective - C  
 
 I've solid knowledge in webservices integrations (RESTful) and also to build them.  
-Knowledge in common software development patterns: MVVM, MVC, Clean Code, SOLID. VIPER.  
+Knowledge in common software development patterns: MVVM, MVC, Clean Code, SOLID, VIPER.  
 Knowledge in SwifLint and Fastlane  
 Knowledge in CocoaPods and SPM
 
