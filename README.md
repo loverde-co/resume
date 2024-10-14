@@ -53,7 +53,6 @@ Experience with SCRUM.
 * Unity 3D
 * Sketch
 * [Cocoapods](http://cocoapods.org)
-* CI/CD and DevOps
 * [sonarqube](https://www.sonarsource.com/products/sonarqube/)
 
 
@@ -69,9 +68,9 @@ Experience with SCRUM.
 #### Deploy  
 
 * XCode
-* Fastlane
-* Unity C#
-* Atom  
+* Fastlane  
+* Swiftlint  
+* CI/CD and DevOps  
 
 
 ### Databases - Relational and NoSQL  
@@ -86,6 +85,7 @@ Experience with SCRUM.
 
 * GitHub  
 * BitBucket  
+* CI/CD and DevOps
 
 
 ### Agile Methodologies  
