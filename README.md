@@ -1,7 +1,7 @@
 # Daniel Arantes Loverde
 
 
-**Location:** Campinas / Aguaí - SP - Brazil  
+**Location:** Remote - SP - Brazil  
 **WhatsApp Chat:** +55 (19) 99511.2758  
 **Email:** [daniel@loverde.com.br](mailto:daniel@loverde.com.br)  
 **GitHub:** @loverde-co  
