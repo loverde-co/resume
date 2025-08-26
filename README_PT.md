@@ -3,7 +3,8 @@
 [![Alt text](flag_br_icon.png "Resume in PT-BR")](README_PT.md)
 [![Alt text](flag_us_usa_icon.png "Resume in EN")](README.md)
 
---
+---
+
 **Localização:** Remoto - SP - Brasil  
 **WhatsApp:** +55 (19) 99511.2758  
 **E-mail:** [daniel@loverde.com.br](mailto:daniel@loverde.com.br)  

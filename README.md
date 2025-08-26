@@ -1,9 +1,9 @@
 # Daniel Arantes Loverde
 
 [![Alt text](flag_us_usa_icon.png "Resume in EN")](README.md)
-[![Alt text](flag_br_icon.png "Resume in PT-BR")](README_PT.md)
+[![Alt text](flag_br_icon.png "Resume in PT-BR")](README_PT.md)  
 
---
+---
 
 **Location:** Remote - SP - Brazil  
 **WhatsApp Chat:** +55 (19) 99511.2758  
