@@ -7,7 +7,7 @@
 **GitHub:** @loverde-co  
 **BitBucket:** loverde_co  
 **Telegram:** @loverde  
-**LinkedIn:** [https://linkedin.com/in/danieloverde/](https://www.linkedin.com/in/danieloverde/)
+**LinkedIn:** [https://linkedin.com/in/loverdeDaniel/](https://www.linkedin.com/in/loverdedaniel/)
 
 ## About Me
   
