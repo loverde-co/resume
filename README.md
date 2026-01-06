@@ -1,5 +1,9 @@
 # Daniel Arantes Loverde
 
+[![Alt text](flag_us_usa_icon.png "Resume in EN")](README.md)
+[![Alt text](flag_br_icon.png "Resume in PT-BR")](README_PT.md)  
+
+---
 
 **Location:** Remote - SP - Brazil  
 **WhatsApp Chat:** +55 (19) 99511.2758  
@@ -7,110 +11,189 @@
 **GitHub:** @loverde-co  
 **BitBucket:** loverde_co  
 **Telegram:** @loverde  
-**LinkedIn:** [https://linkedin.com/in/danieloverde/](https://www.linkedin.com/in/danieloverde/)
+**LinkedIn:** [https://linkedin.com/in/loverdeDaniel/](https://www.linkedin.com/in/loverdedaniel/)
 
-## About Me
-  
-**Working with iOS development since 2010.**  
-Working with back-end development since 1998.   
+## About Me  
 
-**Specialties:**  
-Technical lead and iOS development  
+**iOS developer since 2010.**  
+**Back-end developer since 1998.**  
 
-**Languages:**  
-Swift, SwiftUI and Objective - C  
+Technical Lead with strong hands-on experience, focused on scalable architectures, developer productivity, automation, and pragmatic use of AI in software engineering.
 
-I've solid knowledge in webservices integrations (RESTful) and also to build them.  
-Knowledge in common software development patterns: MVVM, MVC, VIPER, Clean Code, SOLID.  
-Knowledge in SwifLint and Fastlane  
-Knowledge in CocoaPods and SPM
-Knowledge in CI/CD and DevOps
+---
 
-**Knowledge in these frameworks:**  
-UIKIT, Foundation, CoreGraphics, CoreData, ARKit, Quartz, SystemConfiguration, MobileCoreServices, Security, CoreLocation, MapKit, EventKit, CrashReporter, CFNetwork, AFNetworking, CoreVideo, Crashlytics.
+## Core Specialties  
 
-**Automated Tests:**  
-Unit Tests: XCTests
-UI / Funcional Tests: Xcode UITest
+- Technical Leadership and iOS Architecture  
+- iOS Development (UIKit & SwiftUI)  
+- Back-end Integration & API Design  
+- Automation, CI/CD and Developer Experience (DX)  
+- AI-assisted Development & Code Automation  
 
-Experience with HTML, CSS and JS development since 1998  
-Experience with PHP, MySQL and NoSQL development since 2000  
-Experience with iOS development since 2010  
-Experience with SCRUM.  
+---
 
+## Languages  
 
-## More detailed info  
+- Swift, SwiftUI, Objective-C  
+- C#  
+- PHP  
+- JavaScript, HTML, CSS  
 
-### Mobile Development  
+---
 
-* Swift / SwiftUI / Objective-C    
-* C#  
+## Architecture & Engineering Practices  
 
-#### Tools, Frameworks, Stacks and Front End Methodologies  
+- RESTful API design and integration  
+- MVVM, MVC, VIPER  
+- Clean Code and SOLID principles  
+- Modularization and code reuse  
+- Performance, memory management and profiling  
 
-* XCode   
-* [ionic](ionicframework.com)  
-* Unity 3D
-* Sketch
-* [Cocoapods](http://cocoapods.org)
-* [sonarqube](https://www.sonarsource.com/products/sonarqube/)
+---
 
+## Automation, AI & Developer Productivity  
 
+Strong focus on **automation-first development** and **AI-augmented workflows**, improving code quality, speed and consistency across teams.
 
-### Back-End  
+### AI-assisted tools and workflows  
 
-* PHP
-* Apache
-* Firebase
-* Parse
+- Cursor  
+- Windsurf  
+- Antigravity  
 
+Applied to:  
+- Context-aware code generation and refactoring  
+- Large-scale codebase navigation and reasoning  
+- Test generation and edge-case discovery  
+- Documentation generation and code explanation  
+- AI-assisted debugging and architectural validation  
 
-#### Deploy  
+Human-in-the-loop approach to ensure correctness and avoid low-quality AI output.
 
-* XCode
-* Fastlane  
-* Swiftlint  
-* CI/CD and DevOps  
+### Automation & Quality  
 
+- SwiftLint (including custom rules)  
+- SonarQube for code quality and technical debt tracking  
+- Fastlane pipelines for build, test and release automation  
+- CI/CD pipelines focused on reliability and fast feedback  
 
-### Databases - Relational and NoSQL  
+---
 
-* MySQL  
-* Node.JS
-* SQLite   
-* Firebase  
+## iOS Frameworks & SDKs  
 
+- UIKit  
+- Foundation  
+- CoreGraphics  
+- SwiftUI  
+- CoreData  
+- ARKit  
+- Quartz  
+- SystemConfiguration  
+- Security  
+- CoreLocation  
+- MapKit  
+- EventKit  
+- CFNetwork  
+- CoreVideo  
+- CrashReporter  
+- Crashlytics  
+- AFNetworking  
 
-### Version Control Systems  
+---
 
-* GitHub  
-* BitBucket  
-* CI/CD and DevOps
+## Automated Testing  
 
+- Unit Tests: XCTest  
+- UI / Functional Tests: XCUITest  
+- Test automation integrated into CI pipelines  
 
-### Agile Methodologies  
+---
 
-* Scrum   
-* Extreme Programming   
+## Mobile Development  
 
+- Swift / SwiftUI / Objective-C  
+- Unity 3D  
+- Ionic  
 
-### Business and Startup Knowledge  
+### Tools & Design  
 
-* Lean Canvas  
-* Business Model Canvas
+- Xcode  
+- Sketch  
+- CocoaPods  
+- Swift Package Manager  
 
+---
 
-### Data Analysis
+## Back-End Development  
 
-* App Annie
-* Fabrics
-* Firebase  
+- PHP  
+- Apache  
+- Firebase  
+- Parse  
 
-### Operation Systems  
-   
-* Mac OS X
-* Unix commands  
-* Linux 
+Experience designing APIs consumed by mobile clients, with attention to performance, versioning and backward compatibility.
+
+---
+
+## Deployment & DevOps  
+
+- Xcode build automation  
+- Fastlane  
+- SwiftLint  
+- CI/CD pipelines  
+- DevOps culture applied to mobile teams  
+
+---
+
+## Databases (Relational & NoSQL)  
+
+- MySQL  
+- SQLite  
+- Firebase  
+- NoSQL data modeling concepts  
+
+---
+
+## Version Control  
+
+- GitHub  
+- Bitbucket  
+- Branching strategies and release workflows  
+- CI/CD integration  
+
+---
+
+## Agile Methodologies  
+
+- Scrum  
+- Extreme Programming (XP)  
+- Continuous improvement and feedback-driven development  
+
+---
+
+## Business & Product Mindset  
+
+- Lean Canvas  
+- Business Model Canvas  
+- Engineering aligned with product and business goals  
+
+---
+
+## Data & Analytics  
+
+- Firebase Analytics  
+- Crashlytics  
+- App Annie  
+- Data-driven decision making  
+
+---
+
+## Operating Systems  
+
+- macOS  
+- Linux  
+- Unix-based systems  
+- Strong command-line proficiency 
 
 
 ## Work Experience  
