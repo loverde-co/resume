@@ -1,217 +1,295 @@
 # Daniel Arantes Loverde
 
-[![Alt text](flag_br_icon.png "Resume in PT-BR")](README_PT.md)
 [![Alt text](flag_us_usa_icon.png "Resume in EN")](README.md)
+[![Alt text](flag_br_icon.png "Resume in PT-BR")](README_PT.md)  
 
 ---
 
-**Localização:** Remoto - SP - Brasil  
-**WhatsApp:** +55 (19) 99511.2758  
-**E-mail:** [daniel@loverde.com.br](mailto:daniel@loverde.com.br)  
+**Location:** Remote - SP - Brazil  
+**WhatsApp Chat:** +55 (19) 99511.2758  
+**Email:** [daniel@loverde.com.br](mailto:daniel@loverde.com.br)  
 **GitHub:** @loverde-co  
 **BitBucket:** loverde_co  
 **Telegram:** @loverde  
 **LinkedIn:** [https://linkedin.com/in/loverdeDaniel/](https://www.linkedin.com/in/loverdedaniel/)
 
-## Sobre Mim
-  
-**Trabalho com desenvolvimento iOS desde 2010.**  
-Trabalho com desenvolvimento back-end desde 1998.   
+## About Me  
 
-**Especialidades:**  
-Líder técnico e desenvolvimento iOS  
+**iOS developer since 2010.**  
+**Back-end developer since 1998.**  
 
-**Linguagens:**  
-Swift, SwiftUI e Objective-C  
+Technical Lead with strong hands-on experience, focused on scalable architectures, developer productivity, automation, and pragmatic use of AI in software engineering.
 
-Tenho sólido conhecimento em integrações com webservices (RESTful) e também em construí-los.  
-Conhecimento em padrões comuns de desenvolvimento de software: MVVM, MVC, VIPER, Clean Code, SOLID.  
-Conhecimento em SwiftLint e Fastlane  
-Conhecimento em CocoaPods e SPM  
-Conhecimento em CI/CD e DevOps  
+---
 
-**Conhecimento nestes frameworks:**  
-UIKIT, Foundation, CoreGraphics, CoreData, ARKit, Quartz, SystemConfiguration, MobileCoreServices, Security, CoreLocation, MapKit, EventKit, CrashReporter, CFNetwork, AFNetworking, CoreVideo, Crashlytics.
+## Core Specialties  
 
-**Testes Automatizados:**  
-Testes de Unidade: XCTest  
-Testes de UI / Funcionais: Xcode UITest  
+- Technical Leadership and iOS Architecture  
+- iOS Development (UIKit & SwiftUI)  
+- Back-end Integration & API Design  
+- Automation, CI/CD and Developer Experience (DX)  
+- AI-assisted Development & Code Automation  
 
-Experiência com desenvolvimento em HTML, CSS e JS desde 1998  
-Experiência com desenvolvimento em PHP, MySQL e NoSQL desde 2000  
-Experiência com desenvolvimento iOS desde 2010  
-Experiência com SCRUM  
+---
+
+## Languages  
+
+- Swift, SwiftUI, Objective-C  
+- C#  
+- PHP  
+- JavaScript, HTML, CSS  
+
+---
+
+## Architecture & Engineering Practices  
+
+- RESTful API design and integration  
+- MVVM, MVC, VIPER  
+- Clean Code and SOLID principles  
+- Modularization and code reuse  
+- Performance, memory management and profiling  
+
+---
+
+## Automation, AI & Developer Productivity  
+
+Strong focus on **automation-first development** and **AI-augmented workflows**, improving code quality, speed and consistency across teams.
+
+### AI-assisted tools and workflows  
+
+- Cursor  
+- Windsurf  
+- Antigravity  
+
+Applied to:  
+- Context-aware code generation and refactoring  
+- Large-scale codebase navigation and reasoning  
+- Test generation and edge-case discovery  
+- Documentation generation and code explanation  
+- AI-assisted debugging and architectural validation  
+
+Human-in-the-loop approach to ensure correctness and avoid low-quality AI output.
+
+### Automation & Quality  
+
+- SwiftLint (including custom rules)  
+- SonarQube for code quality and technical debt tracking  
+- Fastlane pipelines for build, test and release automation  
+- CI/CD pipelines focused on reliability and fast feedback  
+
+---
+
+## iOS Frameworks & SDKs  
+
+- UIKit  
+- Foundation  
+- CoreGraphics  
+- SwiftUI  
+- CoreData  
+- ARKit  
+- Quartz  
+- SystemConfiguration  
+- Security  
+- CoreLocation  
+- MapKit  
+- EventKit  
+- CFNetwork  
+- CoreVideo  
+- CrashReporter  
+- Crashlytics  
+- AFNetworking  
+
+---
+
+## Automated Testing  
+
+- Unit Tests: XCTest  
+- UI / Functional Tests: XCUITest  
+- Test automation integrated into CI pipelines  
+
+---
+
+## Mobile Development  
+
+- Swift / SwiftUI / Objective-C  
+- Unity 3D  
+- Ionic  
+
+### Tools & Design  
+
+- Xcode  
+- Sketch  
+- CocoaPods  
+- Swift Package Manager  
+
+---
+
+## Back-End Development  
+
+- PHP  
+- Apache  
+- Firebase  
+- Parse  
+
+Experience designing APIs consumed by mobile clients, with attention to performance, versioning and backward compatibility.
+
+---
+
+## Deployment & DevOps  
+
+- Xcode build automation  
+- Fastlane  
+- SwiftLint  
+- CI/CD pipelines  
+- DevOps culture applied to mobile teams  
+
+---
+
+## Databases (Relational & NoSQL)  
+
+- MySQL  
+- SQLite  
+- Firebase  
+- NoSQL data modeling concepts  
+
+---
+
+## Version Control  
+
+- GitHub  
+- Bitbucket  
+- Branching strategies and release workflows  
+- CI/CD integration  
+
+---
+
+## Agile Methodologies  
+
+- Scrum  
+- Extreme Programming (XP)  
+- Continuous improvement and feedback-driven development  
+
+---
+
+## Business & Product Mindset  
+
+- Lean Canvas  
+- Business Model Canvas  
+- Engineering aligned with product and business goals  
+
+---
+
+## Data & Analytics  
+
+- Firebase Analytics  
+- Crashlytics  
+- App Annie  
+- Data-driven decision making  
+
+---
+
+## Operating Systems  
+
+- macOS  
+- Linux  
+- Unix-based systems  
+- Strong command-line proficiency 
 
 
-## Informações Detalhadas  
-
-### Desenvolvimento Mobile  
-
-* Swift / SwiftUI / Objective-C    
-* C#  
-
-#### Ferramentas, Frameworks, Stacks e Metodologias de Front End  
-
-* Xcode   
-* [Ionic](https://ionicframework.com)  
-* Unity 3D  
-* Sketch  
-* [CocoaPods](http://cocoapods.org)  
-* [SonarQube](https://www.sonarsource.com/products/sonarqube/)  
+## Work Experience  
 
 
-### Back-End  
-
-* PHP  
-* Apache  
-* Firebase  
-* Parse  
-
-
-#### Deploy  
-
-* Xcode  
-* Fastlane  
-* SwiftLint  
-* CI/CD e DevOps  
-
-
-### Bancos de Dados - Relacionais e NoSQL  
-
-* MySQL  
-* Node.JS  
-* SQLite   
-* Firebase  
-
-
-### Controle de Versão  
-
-* GitHub  
-* BitBucket  
-* CI/CD e DevOps  
-
-
-### Metodologias Ágeis  
-
-* Scrum   
-* Extreme Programming   
-
-
-### Conhecimentos de Negócios e Startups  
-
-* Lean Canvas  
-* Business Model Canvas  
-
-
-### Análise de Dados  
-
-* App Annie  
-* Fabric  
-* Firebase  
-
-
-### Sistemas Operacionais  
-   
-* Mac OS X  
-* Comandos Unix  
-* Linux  
-
-
-## Experiência Profissional  
-
-**Fundador** - *[2019 ~ Atual]*  
+**Founder** - *[2019 ~ Present]*  
 @ [Loverde Company](https://loverde.com.br)  
-> Empresa PJ criada para atuação como freelancer ou contratos por tempo determinado.  
-> Desde 2019 atuando como pessoa jurídica de forma mais efetiva como iOS Senior/Tech Lead.  
-> Durante esses anos, ajudei empresas a evoluírem seus apps, como por exemplo:  
-> > Shell Box, Iguatemi One, Pernambucanas, Carrefour, Natura, Banco Mercantil e muitos outros.  
+> A Legal Person company ( PJ ) created for Freelancers or contracts for a specified some time.  
+> Since 2019 working for companies as a legal entity more effectively as iOS Senior/Tech Lead.  
+> During these years at the company, I helped companies evolve their apps,
+for example:   
+> > Shell Box, Iguatemi One, Pernambucanas, Carrefour, Natura, Banco Mercantil and many
+others.  
 
-> Estou pronto para oferecer suporte abrangente e estratégias inovadoras para impulsionar o sucesso da sua empresa.  
-**Localização:** Aguaí - SP - Brasil (Home Office)  
-
-
-**Desenvolvedor iOS Sênior** - *[Set/2021 ~ Out/2024]*  
-@ [South System](http://southsystem.com.br)  
-> Desenvolvedor iOS Sênior (Swift)  
-> Tech-lead da squad  
-> Responsável por liderar a equipe, revisar código e publicar apps   
-**Localização:** Porto Alegre - RS - Brasil (Home Office)  
+>  I am ready to offer comprehensive support and innovative strategies to drive your company's success.   
+**Location:** Aguaí - SP - Brazil ( Homeoffice ) 
 
 
-**Desenvolvedor iOS Sênior** - *[Abr/2020 ~ Jan/2021]*  
+**iOS Senior Developer** - *[Set/2021 ~ Oct/2024]*  
+@ [South System](http://southsystem.com.br)
+> iOS Senior Developer ( Swift )  
+> Squad tech-lead  
+> Responsible for lead team, code review and app publishing   
+**Location:** Porto Alegre - RS - Brazil ( Homeoffice )
+
+**iOS Senior Developer** - *[Abr/2020 ~ Jan/2021]*  
 @ [Go-K](http://www.gok.digital)  
-> Desenvolvedor iOS Sênior (Swift / Objective-C)  
-> Tech-lead da squad  
-> Responsável por revisão de código e publicação de apps   
-**Localização:** São Paulo - SP - Brasil (Home Office)  
+> iOS Senior Developer ( Swift / Objective-C )  
+> Squad tech-lead  
+> Responsible for code review and app publishing   
+**Location:** São Paulo - SP - Brazil ( Homeoffice )
 
 
-**Gerente de Projetos** - *[Jan/2014 ~ Jan/2019]*  
+**Project Manager** - *[Jan/2014 ~ Jan/2019]*  
 @ [RD3 Mkt Digital](http://www.rd3digital.com.br)  
-> Desenvolvedor de apps e jogos em iOS (Swift / Objective-C) e Android  
-**Localização:** Campinas - SP - Brasil (Home Office)  
+> Apps and Game developer in iOS ( Swift / Objective-C ) and Android  
+**Location:** Campinas - SP - Brazil ( Homeoffice )
 
 
-**Gerente de Projetos** - *[Jan/2012 ~ Jan/2014]*  
+**Project Manager** - *[Jan/2012 ~ Jan/2014]*  
 @ Cacau Limão  
-> Desenvolvedor de apps e jogos em iOS (Swift / Objective-C) e Android  
-**Localização:** Campinas - SP - Brasil (Presencial)  
+> Apps and Game developer in iOS ( Swift / Objective-C ) and Android  
+**Location:** Campinas - SP - Brazil ( in loco )  
 
 
-**Co-Fundador** - *[Jan/2010 ~ Jan/2012]*  
+**Co Founder** - *[Jan/2010 ~ Jan/2012]*  
 @ [Moblues](http://www.moblu.es)  
-> Analista e desenvolvedor web em projetos institucionais, promocionais e CRM. Líder da expansão de negócios para Mobile Web, iPhone, iPad e Android.  
-**Localização:** Campinas - SP - Brasil (Presencial)  
+> Analyst and web development institutional projects, promotional and CRM. Leader of business expansion for Mobile Web, iPhone, iPad and Android.  
+**Location:** Campinas - SP - Brazil ( in loco )  
 
-
-**Analista Programador** - *[Jan/2010 ~ Jan/2012]*  
+**Programmer Analyst** - *[Jan/2010 ~ Jan/2012]*  
 @ [Pronto Casei](http://www.prontocasei.com.br)  
-> Desenvolvimento de novas funcionalidades garantindo escalabilidade e expansão do projeto, utilizando programação orientada a objetos, modelagem de banco de dados e análise de requisitos.  
-**Localização:** Campinas - SP - Brasil (Presencial)  
+> Development of new features providing scalability and expansion project, using object oriented programming, database modeling and requirements analysis.  
+**Location:** Campinas - SP - Brazil ( in loco )
 
 
-**Analista Programador** - *[Mai/2005 ~ Jan/2010]*  
+**Programmer Analyst** - *[May/2005 ~ Jan/2010]*  
 @ [W3.0](http://www.w3pontozero.com.br)  
-> Análise e desenvolvimento de projetos CMS para internet, extranet e intranet.  
-**Localização:** Campinas - SP - Brasil (Presencial)  
+> Analysis and development of CMS projects for internet, extranet and intranet.  
+**Location:** Campinas - SP - Brazil ( in loco )
 
 
-**Web Master** - *[Mai/2003 ~ Jan/2005]*  
+**Web Master** - *[May/2003 ~ Jan/2005]*  
 @ Hintze Comunicação  
-> Desenvolvedor web e especialista em padrões web para análise e desenvolvimento de projetos CMS para internet, extranet e intranet.  
-**Localização:** Campinas - SP - Brasil (Presencial)  
+> Web Developer and Web Standard in analysis and development of CMS projects for internet, extranet and intranet.   
+**Location:** Campinas - SP - Brazil ( in loco )
 
 
-**Desenvolvedor Web** - *[Jan/2000 ~ Jan/2003]*  
+**Web Developer** - *[Jan/2000 ~ Jan/2003]*  
 @ GraphPress  
-> Desenvolvimento de sites e anúncios digitais.  
-**Localização:** Campinas - SP - Brasil (Presencial)  
+> Website Development and advertisements.   
+**Location:** Campinas - SP - Brazil ( in loco )
 
-
-**Estágio em Direção de Arte** - *[1995 ~ 1997]*  
+**Internship in Art Direction** - *[1995 ~ 1997]*  
 @ Biga & Dias  
-> Designer gráfico e web design inicial.  
-**Localização:** Campinas - SP - Brasil (Presencial)  
+> Graphic designer and stage web design.   
+**Location:** Campinas - SP - Brazil ( in loco )
 
 
 
-## Formação Acadêmica  
+## Education  
+**Bachelor of Computer Engenieering**, February 2018 ~ December 2022.  
+First class of the Aguaí Polo  
+[UNIVESP - Universidade Virtual do Estado de São Paulo](https://univesp.br)
 
-**Bacharelado em Engenharia da Computação**, Fevereiro/2018 ~ Dezembro/2022.  
-Primeira turma do Polo Aguaí  
-[UNIVESP - Universidade Virtual do Estado de São Paulo](https://univesp.br)  
-
-**Bacharelado em Sistemas de Informação**, Fevereiro/2008 ~ Dezembro/2012.  
+**Bachelor of Information Systems**, February 2008 - December 2012.  
 [IPEP - Faculdades Integradas IPEP](http://www.ipep.com.br/site/)  
 
-**Bacharelado em Design Gráfico**, Fevereiro/2001 ~ Dezembro/2005.  
-[CEUNSP - Salto](http://www.ceunsp.edu.br)  
+**Bachelor's degree Field Of StudyDesign Gráfico**, February 2001 - December 2005.  
+[CEUNSP - Salto](http://www.ceunsp.edu.br)
 
 
 
-## Cursos  
+## Courses  
 
-* Ionic 2, por [Udemy](http://udemy.com)  
-* Android e Kotlin, por [Udemy](http://udemy.com)  
-* Unity 3D, por [Udemy](http://udemy.com)  
-* iOS Developer, por [iAi](http://iai.lucaslongo.com/sobre-o-iai/) e [Udemy](http://udemy.com)  
+* ionic 2, by [Udemy](http://udemy.com)
+* Android and Kotlin, by [Udemy](http://udemy.com)
+* Unity 3D, by [Udemy](http://udemy.com)
+* iOS Developer, by [iAi](http://iai.lucaslongo.com/sobre-o-iai/) and [Udemy](http://udemy.com);  
