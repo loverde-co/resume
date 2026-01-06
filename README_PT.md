@@ -13,108 +13,187 @@
 **Telegram:** @loverde  
 **LinkedIn:** [https://linkedin.com/in/loverdeDaniel/](https://www.linkedin.com/in/loverdedaniel/)
 
-## Sobre Mim
-  
-**Trabalho com desenvolvimento iOS desde 2010.**  
-Trabalho com desenvolvimento back-end desde 1998.   
+## Sobre Mim  
 
-**Especialidades:**  
-Líder técnico e desenvolvimento iOS  
+**Desenvolvedor iOS desde 2010.**  
+**Desenvolvedor back-end desde 1998.**  
 
-**Linguagens:**  
-Swift, SwiftUI e Objective-C  
+Líder técnico com forte atuação prática, focado em arquiteturas escaláveis, produtividade de engenharia, automação e uso pragmático de IA no desenvolvimento de software.
 
-Tenho sólido conhecimento em integrações com webservices (RESTful) e também em construí-los.  
-Conhecimento em padrões comuns de desenvolvimento de software: MVVM, MVC, VIPER, Clean Code, SOLID.  
-Conhecimento em SwiftLint e Fastlane  
-Conhecimento em CocoaPods e SPM  
-Conhecimento em CI/CD e DevOps  
+---
 
-**Conhecimento nestes frameworks:**  
-UIKIT, Foundation, CoreGraphics, CoreData, ARKit, Quartz, SystemConfiguration, MobileCoreServices, Security, CoreLocation, MapKit, EventKit, CrashReporter, CFNetwork, AFNetworking, CoreVideo, Crashlytics.
+## Especialidades  
 
-**Testes Automatizados:**  
-Testes de Unidade: XCTest  
-Testes de UI / Funcionais: Xcode UITest  
+- Liderança técnica e arquitetura iOS  
+- Desenvolvimento iOS (UIKit e SwiftUI)  
+- Integração com back-end e design de APIs  
+- Automação, CI/CD e Developer Experience (DX)  
+- Desenvolvimento assistido por IA e automação de código  
 
-Experiência com desenvolvimento em HTML, CSS e JS desde 1998  
-Experiência com desenvolvimento em PHP, MySQL e NoSQL desde 2000  
-Experiência com desenvolvimento iOS desde 2010  
-Experiência com SCRUM  
+---
 
+## Linguagens  
 
-## Informações Detalhadas  
+- Swift, SwiftUI, Objective-C  
+- C#  
+- PHP  
+- JavaScript, HTML e CSS  
 
-### Desenvolvimento Mobile  
+---
 
-* Swift / SwiftUI / Objective-C    
-* C#  
+## Arquitetura e Boas Práticas de Engenharia  
 
-#### Ferramentas, Frameworks, Stacks e Metodologias de Front End  
+- Design e integração de APIs RESTful  
+- MVVM, MVC, VIPER  
+- Clean Code e princípios SOLID  
+- Modularização e reutilização de código  
+- Performance, gerenciamento de memória e profiling  
 
-* Xcode   
-* [Ionic](https://ionicframework.com)  
-* Unity 3D  
-* Sketch  
-* [CocoaPods](http://cocoapods.org)  
-* [SonarQube](https://www.sonarsource.com/products/sonarqube/)  
+---
 
+## Automação, IA e Produtividade  
 
-### Back-End  
+Forte foco em **desenvolvimento orientado à automação** e **fluxos de trabalho aumentados por IA**, melhorando qualidade, velocidade e consistência do código e das equipes.
 
-* PHP  
-* Apache  
-* Firebase  
-* Parse  
+### Ferramentas e fluxos assistidos por IA  
 
+- Cursor  
+- Windsurf  
+- Antigravity  
 
-#### Deploy  
+Aplicações práticas:  
+- Geração e refatoração de código com contexto  
+- Navegação e entendimento de grandes codebases  
+- Geração de testes e descoberta de edge cases  
+- Geração de documentação e explicação de código  
+- Debug assistido por IA e validação arquitetural  
 
-* Xcode  
-* Fastlane  
-* SwiftLint  
-* CI/CD e DevOps  
+Abordagem *human-in-the-loop* para garantir qualidade e evitar erros comuns de geração automática.
 
+### Automação e Qualidade  
 
-### Bancos de Dados - Relacionais e NoSQL  
+- SwiftLint (incluindo regras customizadas)  
+- SonarQube para análise de qualidade e dívida técnica  
+- Fastlane para automação de build, testes e releases  
+- Pipelines de CI/CD com foco em feedback rápido e confiável  
 
-* MySQL  
-* Node.JS  
-* SQLite   
-* Firebase  
+---
 
+## Frameworks e SDKs iOS  
 
-### Controle de Versão  
+- UIKit  
+- Foundation  
+- CoreGraphics  
+- SwiftUI  
+- CoreData  
+- ARKit  
+- Quartz  
+- SystemConfiguration  
+- Security  
+- CoreLocation  
+- MapKit  
+- EventKit  
+- CFNetwork  
+- CoreVideo  
+- CrashReporter  
+- Crashlytics  
+- AFNetworking  
 
-* GitHub  
-* BitBucket  
-* CI/CD e DevOps  
+---
 
+## Testes Automatizados  
 
-### Metodologias Ágeis  
+- Testes unitários: XCTest  
+- Testes de UI / funcionais: XCUITest  
+- Testes integrados ao pipeline de CI  
 
-* Scrum   
-* Extreme Programming   
+---
 
+## Desenvolvimento Mobile  
 
-### Conhecimentos de Negócios e Startups  
+- Swift / SwiftUI / Objective-C  
+- Unity 3D  
+- Ionic  
 
-* Lean Canvas  
-* Business Model Canvas  
+### Ferramentas e Design  
 
+- Xcode  
+- Sketch  
+- CocoaPods  
+- Swift Package Manager  
 
-### Análise de Dados  
+---
 
-* App Annie  
-* Fabric  
-* Firebase  
+## Desenvolvimento Back-End  
 
+- PHP  
+- Apache  
+- Firebase  
+- Parse  
 
-### Sistemas Operacionais  
-   
-* Mac OS X  
-* Comandos Unix  
-* Linux  
+Experiência no design de APIs consumidas por aplicações mobile, com atenção à performance, versionamento e compatibilidade.
+
+---
+
+## Deploy e DevOps  
+
+- Automação de builds no Xcode  
+- Fastlane  
+- SwiftLint  
+- CI/CD  
+- Cultura DevOps aplicada a times mobile  
+
+---
+
+## Bancos de Dados (Relacionais e NoSQL)  
+
+- MySQL  
+- SQLite  
+- Firebase  
+- Modelagem de dados NoSQL  
+
+---
+
+## Controle de Versão  
+
+- GitHub  
+- Bitbucket  
+- Estratégias de branching e workflows de release  
+- Integração com CI/CD  
+
+---
+
+## Metodologias Ágeis  
+
+- Scrum  
+- Extreme Programming (XP)  
+- Melhoria contínua baseada em feedback  
+
+---
+
+## Visão de Negócio e Produto  
+
+- Lean Canvas  
+- Business Model Canvas  
+- Engenharia alinhada a objetivos de produto e negócio  
+
+---
+
+## Dados e Análises  
+
+- Firebase Analytics  
+- Crashlytics  
+- App Annie  
+- Tomada de decisão baseada em dados  
+
+---
+
+## Sistemas Operacionais  
+
+- macOS  
+- Linux  
+- Sistemas Unix  
+- Forte domínio de linha de comando  
 
 
 ## Experiência Profissional  
