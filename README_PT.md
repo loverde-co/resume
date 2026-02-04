@@ -55,6 +55,7 @@ Líder técnico com forte atuação prática, focado em arquiteturas escaláveis
 
 Forte foco em **desenvolvimento orientado à automação** e **fluxos de trabalho aumentados por IA**, melhorando qualidade, velocidade e consistência do código e das equipes.
 
+
 ### Ferramentas e fluxos assistidos por IA  
 
 - Cursor  
