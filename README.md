@@ -36,7 +36,8 @@ Technical Lead with strong hands-on experience, focused on scalable architecture
 
 - Swift, SwiftUI, Objective-C  
 - C#  
-- PHP  
+- PHP
+- TypeScript
 - JavaScript, HTML, CSS  
 
 ---
@@ -112,12 +113,12 @@ Human-in-the-loop approach to ensure correctness and avoid low-quality AI output
 ## Mobile Development  
 
 - Swift / SwiftUI / Objective-C  
-- Unity 3D  
-- Ionic  
+- TS Core Native  
 
 ### Tools & Design  
 
 - Xcode  
+- Visual Studio
 - Sketch  
 - CocoaPods  
 - Swift Package Manager  
@@ -127,7 +128,9 @@ Human-in-the-loop approach to ensure correctness and avoid low-quality AI output
 ## Back-End Development  
 
 - PHP  
-- Apache  
+- Node
+- Apache
+- Nginx  
 - Firebase  
 - Parse  
 
@@ -150,6 +153,8 @@ Experience designing APIs consumed by mobile clients, with attention to performa
 - MySQL  
 - SQLite  
 - Firebase  
+- Supabase
+- MongoDB
 - NoSQL data modeling concepts  
 
 ---

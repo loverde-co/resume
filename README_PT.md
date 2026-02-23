@@ -36,8 +36,9 @@ Líder técnico com forte atuação prática, focado em arquiteturas escaláveis
 
 - Swift, SwiftUI, Objective-C  
 - C#  
-- PHP  
-- JavaScript, HTML e CSS  
+- PHP
+- TypeScript
+- JavaScript, HTML, CSS 
 
 ---
 
@@ -54,7 +55,6 @@ Líder técnico com forte atuação prática, focado em arquiteturas escaláveis
 ## Automação, IA e Produtividade  
 
 Forte foco em **desenvolvimento orientado à automação** e **fluxos de trabalho aumentados por IA**, melhorando qualidade, velocidade e consistência do código e das equipes.
-
 
 ### Ferramentas e fluxos assistidos por IA  
 
@@ -113,12 +113,12 @@ Abordagem *human-in-the-loop* para garantir qualidade e evitar erros comuns de g
 ## Desenvolvimento Mobile  
 
 - Swift / SwiftUI / Objective-C  
-- Unity 3D  
-- Ionic  
+- TS Core Native  
 
 ### Ferramentas e Design  
 
 - Xcode  
+- Visual Studio
 - Sketch  
 - CocoaPods  
 - Swift Package Manager  
@@ -128,7 +128,9 @@ Abordagem *human-in-the-loop* para garantir qualidade e evitar erros comuns de g
 ## Desenvolvimento Back-End  
 
 - PHP  
-- Apache  
+- Node
+- Apache
+- Nginx  
 - Firebase  
 - Parse  
 
@@ -151,7 +153,9 @@ Experiência no design de APIs consumidas por aplicações mobile, com atenção
 - MySQL  
 - SQLite  
 - Firebase  
-- Modelagem de dados NoSQL  
+- Supabase
+- MongoDB
+- NoSQL data modeling concepts  
 
 ---
 
